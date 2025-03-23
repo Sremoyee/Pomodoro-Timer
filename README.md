@@ -10,7 +10,7 @@ A simple and colorful Pomodoro Timer built with Python and Tkinter. This timer h
 - **Pink Theme**: A visually appealing pink-themed user interface.
 
 
-![alt text](<Screenshot 2025-03-23 182319.png>)
+![alt text](image.png)
 
 
 ## How to Run 🚀
