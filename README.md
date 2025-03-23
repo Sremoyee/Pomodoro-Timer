@@ -17,4 +17,4 @@ A simple and colorful Pomodoro Timer built with Python and Tkinter. This timer h
 1. Clone the Repository:
    ```bash
    git clone https://github.com/your-username/pomodoro-timer.git
-   cd pomodoro-timer
+   cd Pomodoro-Timer
